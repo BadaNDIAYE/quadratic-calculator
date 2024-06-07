@@ -26,7 +26,7 @@ label, input, button {
 
 button {
     padding: 10px;
-    background-color: #007BFF;
+    background-color: #98FF98; /* Couleur vert menthe */
     color: white;
     border: none;
     border-radius: 5px;
@@ -34,7 +34,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #6DDA6B; /* Couleur légèrement plus foncée au survol */
 }
 
 #result {
